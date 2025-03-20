@@ -1,4 +1,4 @@
-# Project #1 Title
+# Project Title
 
 > A short description about the project and/or client.
 
